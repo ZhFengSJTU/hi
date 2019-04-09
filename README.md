@@ -1,2 +1,2 @@
 # hi
-my first repository on GitHub
+my first repository on GitHub~
